@@ -18,4 +18,3 @@ Autor
 <sub><b>Thiago de Luca</b></sub></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-goncalves-1b902521/)](https://www.linkedin.com/in/thiago-goncalves-1b902521/)
-[![Gmail Badge](https://img.shields.io/badge/-3rd.thiago.goncalves@amedigital.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3rd.thiago.goncalves@amedigital.com)](mailto:3rd.thiago.goncalves@amedigital.com)
